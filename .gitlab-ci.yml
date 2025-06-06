@@ -6,7 +6,7 @@ stages:
   - deploy
 
 variables:
-  PROJECT_ID: "mlops-new-447207"
+  PROJECT_ID: "consummate-gift-458313-s6"
   REGION: "us-central1"
   REPO: "my-repo"
   REGISTRY: "us-central1-docker.pkg.dev"
