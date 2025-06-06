@@ -11,7 +11,7 @@ env:
     GKE_REGION: "us-central1"
     DEPLOYMENT_NAME: "mlops-app"
     REPOSITORY: "us-central1-docker.pkg.dev/consummate-gift-458313-s6/my-repo"
-    IMAGE: "us-central1-docker.pkg.dev/consummate-gift-458313-s6/my-repo"
+    IMAGE: "us-central1-docker.pkg.dev/consummate-gift-458313-s6/my-repo/mlops-app"
 
 jobs:
     build-and-deploy:
